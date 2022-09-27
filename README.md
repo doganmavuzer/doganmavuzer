@@ -1,6 +1,6 @@
-### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Dogan Can Mavuzer</h1>
+
+<h1 align="center">Hi , I'm Dogan Can Mavuzer</h1>
 <h3 align="center">A passionate Spring Java backend developer from Germany</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/doganmavuzer](https://github.com/doganmavuzer)
